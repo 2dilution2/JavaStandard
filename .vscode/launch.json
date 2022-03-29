@@ -1,0 +1,353 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch array08",
+            "request": "launch",
+            "mainClass": "day09.array08",
+            "projectName": "JavaStandard_389bedd7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch HelloWorld",
+            "request": "launch",
+            "mainClass": "day01.HelloWorld",
+            "projectName": "JavaStandard_389bedd7"
+        },
+        {
+            "type": "java",
+            "name": "Launch calaulate",
+            "request": "launch",
+            "mainClass": "day01.calaulate",
+            "projectName": "JavaStandard_389bedd7"
+        },
+        {
+            "type": "java",
+            "name": "Launch variable",
+            "request": "launch",
+            "mainClass": "day01.variable",
+            "projectName": "JavaStandard_389bedd7"
+        },
+        {
+            "type": "java",
+            "name": "Launch constant",
+            "request": "launch",
+            "mainClass": "day02.constant",
+            "projectName": "JavaStandard_389bedd7"
+        },
+        {
+            "type": "java",
+            "name": "Launch exchange",
+            "request": "launch",
+            "mainClass": "day02.exchange",
+            "projectName": "JavaStandard_389bedd7"
+        },
+        {
+            "type": "java",
+            "name": "Launch exchangeType",
+            "request": "launch",
+            "mainClass": "day02.exchangeType",
+            "projectName": "JavaStandard_389bedd7"
+        },
+        {
+            "type": "java",
+            "name": "Launch overflow",
+            "request": "launch",
+            "mainClass": "day02.overflow",
+            "projectName": "JavaStandard_389bedd7"
+        },
+        {
+            "type": "java",
+            "name": "Launch printf",
+            "request": "launch",
+            "mainClass": "day02.printf",
+            "projectName": "JavaStandard_389bedd7"
+        },
+        {
+            "type": "java",
+            "name": "Launch scanner",
+            "request": "launch",
+            "mainClass": "day02.scanner",
+            "projectName": "JavaStandard_389bedd7"
+        },
+        {
+            "type": "java",
+            "name": "Launch string",
+            "request": "launch",
+            "mainClass": "day02.string",
+            "projectName": "JavaStandard_389bedd7"
+        },
+        {
+            "type": "java",
+            "name": "Launch type",
+            "request": "launch",
+            "mainClass": "day02.type",
+            "projectName": "JavaStandard_389bedd7"
+        },
+        {
+            "type": "java",
+            "name": "Launch casting",
+            "request": "launch",
+            "mainClass": "day03.casting",
+            "projectName": "JavaStandard_389bedd7"
+        },
+        {
+            "type": "java",
+            "name": "Launch operator01",
+            "request": "launch",
+            "mainClass": "day03.operator01",
+            "projectName": "JavaStandard_389bedd7"
+        },
+        {
+            "type": "java",
+            "name": "Launch operator02",
+            "request": "launch",
+            "mainClass": "day03.operator02",
+            "projectName": "JavaStandard_389bedd7"
+        },
+        {
+            "type": "java",
+            "name": "Launch operator03",
+            "request": "launch",
+            "mainClass": "day03.operator03",
+            "projectName": "JavaStandard_389bedd7"
+        },
+        {
+            "type": "java",
+            "name": "Launch operator04",
+            "request": "launch",
+            "mainClass": "day03.operator04",
+            "projectName": "JavaStandard_389bedd7"
+        },
+        {
+            "type": "java",
+            "name": "Launch operator05",
+            "request": "launch",
+            "mainClass": "day03.operator05",
+            "projectName": "JavaStandard_389bedd7"
+        },
+        {
+            "type": "java",
+            "name": "Launch mathRound",
+            "request": "launch",
+            "mainClass": "day04.mathRound",
+            "projectName": "JavaStandard_389bedd7"
+        },
+        {
+            "type": "java",
+            "name": "Launch operator06",
+            "request": "launch",
+            "mainClass": "day04.operator06",
+            "projectName": "JavaStandard_389bedd7"
+        },
+        {
+            "type": "java",
+            "name": "Launch operator07",
+            "request": "launch",
+            "mainClass": "day04.operator07",
+            "projectName": "JavaStandard_389bedd7"
+        },
+        {
+            "type": "java",
+            "name": "Launch operator08",
+            "request": "launch",
+            "mainClass": "day04.operator08",
+            "projectName": "JavaStandard_389bedd7"
+        },
+        {
+            "type": "java",
+            "name": "Launch operator09",
+            "request": "launch",
+            "mainClass": "day04.operator09",
+            "projectName": "JavaStandard_389bedd7"
+        },
+        {
+            "type": "java",
+            "name": "Launch opreator10",
+            "request": "launch",
+            "mainClass": "day04.opreator10",
+            "projectName": "JavaStandard_389bedd7"
+        },
+        {
+            "type": "java",
+            "name": "Launch control01",
+            "request": "launch",
+            "mainClass": "day05.control01",
+            "projectName": "JavaStandard_389bedd7"
+        },
+        {
+            "type": "java",
+            "name": "Launch control02",
+            "request": "launch",
+            "mainClass": "day05.control02",
+            "projectName": "JavaStandard_389bedd7"
+        },
+        {
+            "type": "java",
+            "name": "Launch control03",
+            "request": "launch",
+            "mainClass": "day05.control03",
+            "projectName": "JavaStandard_389bedd7"
+        },
+        {
+            "type": "java",
+            "name": "Launch control04",
+            "request": "launch",
+            "mainClass": "day05.control04",
+            "projectName": "JavaStandard_389bedd7"
+        },
+        {
+            "type": "java",
+            "name": "Launch control05",
+            "request": "launch",
+            "mainClass": "day05.control05",
+            "projectName": "JavaStandard_389bedd7"
+        },
+        {
+            "type": "java",
+            "name": "Launch control06",
+            "request": "launch",
+            "mainClass": "day06.control06",
+            "projectName": "JavaStandard_389bedd7"
+        },
+        {
+            "type": "java",
+            "name": "Launch control07",
+            "request": "launch",
+            "mainClass": "day06.control07",
+            "projectName": "JavaStandard_389bedd7"
+        },
+        {
+            "type": "java",
+            "name": "Launch control08",
+            "request": "launch",
+            "mainClass": "day06.control08",
+            "projectName": "JavaStandard_389bedd7"
+        },
+        {
+            "type": "java",
+            "name": "Launch control09",
+            "request": "launch",
+            "mainClass": "day06.control09",
+            "projectName": "JavaStandard_389bedd7"
+        },
+        {
+            "type": "java",
+            "name": "Launch control10",
+            "request": "launch",
+            "mainClass": "day06.control10",
+            "projectName": "JavaStandard_389bedd7"
+        },
+        {
+            "type": "java",
+            "name": "Launch control11",
+            "request": "launch",
+            "mainClass": "day06.control11",
+            "projectName": "JavaStandard_389bedd7"
+        },
+        {
+            "type": "java",
+            "name": "Launch control12",
+            "request": "launch",
+            "mainClass": "day06.control12",
+            "projectName": "JavaStandard_389bedd7"
+        },
+        {
+            "type": "java",
+            "name": "Launch control13",
+            "request": "launch",
+            "mainClass": "day06.control13",
+            "projectName": "JavaStandard_389bedd7"
+        },
+        {
+            "type": "java",
+            "name": "Launch random",
+            "request": "launch",
+            "mainClass": "day06.random",
+            "projectName": "JavaStandard_389bedd7"
+        },
+        {
+            "type": "java",
+            "name": "Launch control14",
+            "request": "launch",
+            "mainClass": "day07.control14",
+            "projectName": "JavaStandard_389bedd7"
+        },
+        {
+            "type": "java",
+            "name": "Launch control15",
+            "request": "launch",
+            "mainClass": "day07.control15",
+            "projectName": "JavaStandard_389bedd7"
+        },
+        {
+            "type": "java",
+            "name": "Launch control16",
+            "request": "launch",
+            "mainClass": "day07.control16",
+            "projectName": "JavaStandard_389bedd7"
+        },
+        {
+            "type": "java",
+            "name": "Launch control17",
+            "request": "launch",
+            "mainClass": "day07.control17",
+            "projectName": "JavaStandard_389bedd7"
+        },
+        {
+            "type": "java",
+            "name": "Launch array01",
+            "request": "launch",
+            "mainClass": "day08.array01",
+            "projectName": "JavaStandard_389bedd7"
+        },
+        {
+            "type": "java",
+            "name": "Launch array02",
+            "request": "launch",
+            "mainClass": "day08.array02",
+            "projectName": "JavaStandard_389bedd7"
+        },
+        {
+            "type": "java",
+            "name": "Launch array03",
+            "request": "launch",
+            "mainClass": "day08.array03",
+            "projectName": "JavaStandard_389bedd7"
+        },
+        {
+            "type": "java",
+            "name": "Launch array04",
+            "request": "launch",
+            "mainClass": "day08.array04",
+            "projectName": "JavaStandard_389bedd7"
+        },
+        {
+            "type": "java",
+            "name": "Launch array05",
+            "request": "launch",
+            "mainClass": "day08.array05",
+            "projectName": "JavaStandard_389bedd7"
+        },
+        {
+            "type": "java",
+            "name": "Launch array06",
+            "request": "launch",
+            "mainClass": "day09.array06",
+            "projectName": "JavaStandard_389bedd7"
+        },
+        {
+            "type": "java",
+            "name": "Launch array07",
+            "request": "launch",
+            "mainClass": "day09.array07",
+            "projectName": "JavaStandard_389bedd7"
+        }
+    ]
+}
