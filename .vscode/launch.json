@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch array09",
+            "request": "launch",
+            "mainClass": "day09.array09",
+            "projectName": "JavaStandard_389bedd7"
+        },
+        {
+            "type": "java",
             "name": "Launch array08",
             "request": "launch",
             "mainClass": "day09.array08",

@@ -34,5 +34,8 @@ public class array09 {
             aver = sum /(float)score[i].length; // 평균 계산
             System.out.printf("%5d %5.1f%n", sum, aver);
         }
+
+        System.out.println("==========================================");   
+        System.out.printf("총점 : %3d %4d %4d%n", kortotal, engtotal, mathtotal); 
     }
 }
