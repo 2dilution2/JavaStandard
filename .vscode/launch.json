@@ -2,6 +2,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch object10",
+            "request": "launch",
+            "mainClass": "day13.object10",
+            "projectName": "JavaStandard_389bedd7"
+        },
+        {
+            "type": "java",
+            "name": "Launch object09",
+            "request": "launch",
+            "mainClass": "day13.object09",
+            "projectName": "JavaStandard_389bedd7"
+        },
+        {
+            "type": "java",
+            "name": "Launch object08",
+            "request": "launch",
+            "mainClass": "day13.object08",
+            "projectName": "JavaStandard_389bedd7"
+        },
+        {
+            "type": "java",
+            "name": "Launch object07",
+            "request": "launch",
+            "mainClass": "day13.object07",
+            "projectName": "JavaStandard_389bedd7"
+        },
+        {
+            "type": "java",
             "name": "Launch object06",
             "request": "launch",
             "mainClass": "day12.object06",
