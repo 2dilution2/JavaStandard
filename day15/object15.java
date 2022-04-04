@@ -1,5 +1,5 @@
 package day15;
-
+    // 맴버변수 초기화 예제1
 public class object15 {
     static {
         System.out.println("static { }");           // 클래스 초기화 블럭
