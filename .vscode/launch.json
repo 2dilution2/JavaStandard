@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch object24",
+            "request": "launch",
+            "mainClass": "day19.object24",
+            "projectName": "JavaStandard_389bedd7"
+        },
+        {
+            "type": "java",
+            "name": "Launch object23",
+            "request": "launch",
+            "mainClass": "day19.object23",
+            "projectName": "JavaStandard_389bedd7"
+        },
+        {
+            "type": "java",
             "name": "Launch object22",
             "request": "launch",
             "mainClass": "day19.object22",

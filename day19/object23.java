@@ -57,7 +57,11 @@ class Buyer2 {
         for(int i = 0; i<cart.length; i++){
             if (cart[i]==null) break;
             sum += cart[i].price;
-            itemList += cart[i] + ", ";
+            if (i==0) {
+                itemList += cart[i];
+            } else {
+                itemList += ", " + cart[i];
+            }
         }
         System.out.println("구입한 물품의 총금액은 " + sum + "만원 입니다.");
         System.out.println("구입한 제품은 " + itemList + "입니다.");
