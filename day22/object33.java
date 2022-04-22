@@ -4,8 +4,6 @@ package day22;
 import java.awt.*;
 import java.awt.event.*;
 
-import javafx.scene.control.Button;
-
 public class object33 {
     public static void main(String[] args) {
         Button b = new Button("start");
@@ -15,5 +13,5 @@ public class object33 {
                 }
             } // 익명클래스의 끝
         );    
-    }
+    } // main의 끝
 }
