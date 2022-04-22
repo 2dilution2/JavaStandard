@@ -1,4 +1,4 @@
-package day21
+package day21;
 	// 내부클래스의 제어자와 접근성 예제3
 class outer {
 	private int outerIv = 0;
@@ -17,14 +17,14 @@ class outer {
 
 	void myMethod() {
 		int lv = 0;
-		final intLv = 0;	// JDK1.8 부터 final생략 가능
+		final int Lv = 0;	// JDK1.8 부터 final생략 가능
 		
 		class LocalInner {
-			int liv = outerIlv;
+			int liv = outerIv;
 			int liv2 = outerCv;
 // 외부클래스의 지역변수는 final이 붙은 변수(상수)만 접근이 가능하다.
-//			int liv3 = outerlv;		에러  JDK1.8 부터 에러 아님
-			int liv4 = outerLv;
+//			int liv3 = lv;		에러  JDK1.8 부터 에러 아님
+			int liv4 = Lv;
 		}
 	}
 }
