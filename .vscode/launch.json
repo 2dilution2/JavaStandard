@@ -2,6 +2,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch exception11",
+            "request": "launch",
+            "mainClass": "day26.exception11",
+            "projectName": "JavaStandard_389bedd7"
+        },
+        {
+            "type": "java",
+            "name": "Launch exception10",
+            "request": "launch",
+            "mainClass": "day26.exception10",
+            "projectName": "JavaStandard_389bedd7"
+        },
+        {
+            "type": "java",
+            "name": "Launch exception09",
+            "request": "launch",
+            "mainClass": "day26.exception09",
+            "projectName": "JavaStandard_389bedd7"
+        },
+        {
+            "type": "java",
+            "name": "Launch exception08",
+            "request": "launch",
+            "mainClass": "day26.exception08",
+            "projectName": "JavaStandard_389bedd7"
+        },
+        {
+            "type": "java",
+            "name": "Launch exception07",
+            "request": "launch",
+            "mainClass": "day26.exception07",
+            "projectName": "JavaStandard_389bedd7"
+        },
+        {
+            "type": "java",
+            "name": "Launch exception06",
+            "request": "launch",
+            "mainClass": "day26.exception06",
+            "projectName": "JavaStandard_389bedd7"
+        },
+        {
+            "type": "java",
+            "name": "Launch excaption05",
+            "request": "launch",
+            "mainClass": "day25.excaption05",
+            "projectName": "JavaStandard_389bedd7"
+        },
+        {
+            "type": "java",
             "name": "Launch exception04",
             "request": "launch",
             "mainClass": "day24.exception04",

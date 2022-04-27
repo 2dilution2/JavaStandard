@@ -1,5 +1,5 @@
 package day24;
-
+// 예외의 발생과 catch블럭
 public class exception03 {
     public static void main(String[] args) {
         System.out.println(1);

@@ -1,5 +1,5 @@
 package day23;
-
+// try-catch문에서의 흐름
 public class exception01 {
     public static void main(String[] args) {
         System.out.println(1);
