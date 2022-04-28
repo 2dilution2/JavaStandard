@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch exception13",
+            "request": "launch",
+            "mainClass": "day27.exception13",
+            "projectName": "JavaStandard_389bedd7"
+        },
+        {
+            "type": "java",
             "name": "Launch exception11",
             "request": "launch",
             "mainClass": "day26.exception11",
